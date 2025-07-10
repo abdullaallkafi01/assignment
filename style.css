@@ -57,3 +57,35 @@ nav ul li{
     height: 328px;
     align-items: center;
 }
+
+.h1{
+    font-weight: bold;
+    font-size: 42;
+}
+
+.p{
+    color: #757575;
+}
+
+.bg{
+    background-color: #cfcdf6;
+    height: 360px;
+    margin: 178.5px 159px 137px 141px;
+    border-radius: 30px;
+    padding: 50px 142px;
+    text-align: center;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-around;
+}
+
+.people{
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.info{
+    color: #757575;
+}
